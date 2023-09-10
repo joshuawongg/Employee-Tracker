@@ -24,4 +24,4 @@ THEN I am prompted to enter the employee’s first name, last name, role, and ma
 WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 
-Link to video submission: 
+Link to video submission: https://drive.google.com/file/d/12tQksJCb1hCgxm9lO2vDkHo3lIXZelPU/view
